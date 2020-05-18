@@ -10,3 +10,11 @@ Webotron currently has the following features:
 
 - List Bucket
 - List contents of a bucket
+
+## 02-notifon
+
+Notifon is a project to notify Slack users of changes to your AWS account using CloudWatch Events
+
+### Features
+
+Notifon currently has the following features:
